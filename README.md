@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I think the challange for me is how different the syntaxes and workflow of kotlin is compared to other programming languages including Java but I look forward to getting more acquainted and comfortable with the language throughout the program.
 
 ## License
 
